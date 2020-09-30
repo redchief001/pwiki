@@ -29,4 +29,4 @@ optional arguments:
 ### Requirements
 
 
-This program requires only the Wikipedia Python module which is available on Pypi at this address https://pypi.org/project/wikipedia/ . Credit for this module goes to Jonathan Goldsmith.
+This program requires only the Wikipedia Python module which is available on Pypi at this address https://pypi.org/project/wikipedia/ . Credit for the Wikipedia module goes to Jonathan Goldsmith.
