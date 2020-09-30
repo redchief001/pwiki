@@ -1,4 +1,4 @@
-## pwiki - Pull article and summaries from Wikipedia.organization
+## Pwiki - Pull article and summaries from Wikipedia.org
 
 
 Pwiki allows the user to pull Wikipedia articles or summaries in plain text using a command line interface. If the program is run in a shell that allows redirection and/or piping, then the output can be sent to a file and/or parsed if required.
